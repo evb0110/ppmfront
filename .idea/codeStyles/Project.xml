@@ -1,5 +1,6 @@
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <JSCodeStyleSettings version="0">
       <option name="FORCE_SEMICOLON_STYLE" value="true" />
       <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -8,14 +9,14 @@
     </JSCodeStyleSettings>
     <TypeScriptCodeStyleSettings version="0">
       <option name="FORCE_SEMICOLON_STYLE" value="true" />
-      <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+      <option name="PREFER_AS_TYPE_CAST" value="true" />
       <option name="USE_DOUBLE_QUOTES" value="false" />
       <option name="FORCE_QUOTE_STYlE" value="true" />
       <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     </TypeScriptCodeStyleSettings>
     <codeStyleSettings language="TypeScript">
-      <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-      <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+      <option name="KEEP_LINE_BREAKS" value="false" />
+      <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     </codeStyleSettings>
   </code_scheme>
 </component>
